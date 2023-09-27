@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/flanderos/task4/issues"
   },
-  "homepage": "https://github.com/flanderos/task4#readme"
+  "homepage": "https://github.com/flanderos/task4#readme",
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
 }
